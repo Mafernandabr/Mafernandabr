@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 <br>
 
 
-<div>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mafernandabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  
- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Mafernandabr&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mafernandabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+    
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Mafernandabr&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ </div> 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/3795a0d1-dc30-462f-b83b-be0b4d1086d4" width="50%">
 </div>
