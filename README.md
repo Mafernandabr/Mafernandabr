@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mafernandabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
     
